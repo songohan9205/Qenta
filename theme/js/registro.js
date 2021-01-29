@@ -165,6 +165,7 @@ function buscarPagina() {
 
 //Función que consulta los datos del jugador por el ID y los carga en ventana modal
 function verDatos(id) {
+    buscando();
     let jugador = id;
     $.ajax({
         type: "POST",
