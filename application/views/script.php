@@ -1,3 +1,8 @@
+<!-- Cierre de la plantilla HTML -->
+            </div>
+        </div>
+    </div>
+</body>
 <!-- Scripts necesarios para el correcto funcionamiento del programa -->
 <script src="<?php echo site_url(); ?>theme/vendors/js/vendor.bundle.base.js"></script>
 <script src="<?php echo site_url(); ?>theme/js/off-canvas.js"></script>

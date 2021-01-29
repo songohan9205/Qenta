@@ -45,5 +45,11 @@ class Welcome extends CI_Controller {
 		));
 		echo json_encode($datos);
 	}
+
+	//Función para redireccionar las vistas
+	public function rutas() {
+		$ruta = $this->input->get('enlace');
+		$this->load->view($ruta);
+	}
 	
 }
