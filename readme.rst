@@ -3,8 +3,8 @@ Prueba Qenta
 ###################
 
 El repositorio debe descargarse y colcarlo en la carperta HTDOCS de Xampp, la ruta de accceso es http://localhost/qenta/.
-Dado el caso que el servidor apache donde se vaya a ejecutar tenga un puerto diferente al 80, este debe ingresarse después del http:
-
+Dado el caso que el servidor apache donde se vaya a ejecutar tenga un puerto diferente al 80, este debe ingresarse después del http: .
+Al descaragr la carpeta queda con nombre Qenta-master, debe cambiarse y dejarla con el nomber quenta.
 *******************
 Información adicional
 *******************
