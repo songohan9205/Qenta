@@ -1,0 +1,22 @@
+{
+    "name": "maltyxx/restclient",
+    "keywords": ["codeigniter", "rest", "client"],
+    "description": "REST Full Client for Codeigniter 3",
+    "homepage": "https://git.santiane.io/library/restclient",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "Yoann Vanitou",
+        "email": "y.vanitou@santiane.fr",
+        "role": "Developer"
+    },{
+        "name": "Romain GALLIEN",
+        "email": "r.gallien@santiane.fr",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev" : {
+        "codeigniter/framework": "3.1.9"
+    }
+}

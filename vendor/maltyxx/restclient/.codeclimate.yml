@@ -1,0 +1,14 @@
+plugins:
+  phpmd:
+    enabled: true
+    config:
+      file_extensions: "php"
+      rulesets: "phpmd.xml"
+exclude_patterns:
+  - ci/
+  - test/
+  - vendor/
+  - node_modules/
+  - bower_components/
+  - application/test/
+  - application/third_party/

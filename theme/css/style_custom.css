@@ -1,0 +1,53 @@
+.separator-custom{
+  border-top: 1px solid #d4d4d4;
+  padding-top: 10px;
+}
+
+.form-check.form-check-flat label .input-helper:before {
+  border: 2px solid #999999; 
+
+}
+
+.form-check .form-check-label .input-helper:before {
+  border: 2px solid #999999;
+}
+
+.form-control{
+  border-color: #999999;
+}
+
+.form-radio .form-check-label .input-helper:before {
+  border: 2px solid #999999;
+}
+
+.bordes {
+  border: solid 1px !important;
+  border-color:rgb(158, 158, 158) !important;
+}
+
+.wrapper {
+  align-items: center;
+  background: url("../images/background.png") no-repeat center center;
+  background-size: cover; 
+}
+
+.subtitulo {
+  text-align: center;
+  color: rgb(23, 73, 139);
+  margin-bottom: 15px;
+  font-weight: bolder;
+}
+
+.st_card{
+  margin: 3%;  
+}
+
+.st_btn {
+  margin-bottom: 4%;
+}
+
+.swal-wide{
+  width:25rem !important;
+  font-size: 0.8rem !important;
+  text-align: center;
+}
